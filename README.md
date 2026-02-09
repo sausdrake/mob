@@ -5,7 +5,7 @@
 ### 1. Клонирование репозитория
 
 ```bash
-git clone https://github.com/Nurdoolota/weather-app.git
+git clone https://github.com/sausdrake/mob
 cd weather
 ```
 
